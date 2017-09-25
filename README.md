@@ -1,1 +1,0 @@
-关于对handlebars.js模板搭建的一个小demo
